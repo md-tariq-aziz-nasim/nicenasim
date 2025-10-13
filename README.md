@@ -45,8 +45,8 @@
 ---
 
 ## 📫 Reach me at
-- ✉️ Email: your@email.com
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- ✉️ Email: tariqaziz.cse@gmail.com
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/md-tariq-aziz-nasim/)
 - 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 ---
