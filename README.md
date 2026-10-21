@@ -25,28 +25,7 @@ I build responsive, maintainable web applications with a focus on clean architec
 
 **Tools:** Git, GitHub, VS Code, Cursor, Linux
 
-## 🚀 Featured Projects
 
-### 1. Admin Dashboard
-A responsive dashboard with reusable components, data tables, filtering, forms, and API integration.
-
-**Tech:** Vue 3, Quasar, Pinia, Axios
-
-[View Repository](YOUR_REPOSITORY_URL) · [Live Demo](YOUR_DEMO_URL)
-
-### 2. E-commerce Frontend
-A responsive shopping experience with product listings, variant selection, cart management, and checkout UI.
-
-**Tech:** Vue 3, Pinia, Tailwind CSS, Axios
-
-[View Repository](YOUR_REPOSITORY_URL) · [Live Demo](YOUR_DEMO_URL)
-
-### 3. Inventory Management System
-An application for managing products, stock movements, warehouses, and reports.
-
-**Tech:** Vue 3, Quasar, REST APIs
-
-[View Repository](YOUR_REPOSITORY_URL) · [Live Demo](YOUR_DEMO_URL)
 
 ## 📈 Current Focus
 
