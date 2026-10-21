@@ -1,53 +1,63 @@
-# 👋 Hi, I’m [MD TARIQ AZIZ NASIM]
+# Hi, I'm Tariq Aziz Nasim 👋
 
-🌱 Passionate about building modern, scalable web applications.
+### Vue.js Frontend Developer | Vue 3 • Quasar • Pinia • Tailwind CSS
 
----
+I build responsive, maintainable web applications with a focus on clean architecture, reusable components, and excellent user experience.
+
+- 💻 Around 3 years of frontend development experience
+- 🚀 Working with Vue 3, Quasar, Pinia, Axios, and Tailwind CSS
+- 🧩 Interested in frontend architecture, performance, and reusable UI systems
+- 🌱 Learning TypeScript, React, Node.js, Express.js, and PostgreSQL
+- 🎯 Open to remote opportunities and freelance projects
+- 📍 Based in Bangladesh
 
 ## 🛠️ Tech Stack
 
-### 📑 Markup & Styling
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![XML](https://img.shields.io/badge/-XML-8B9DC3?logo=w3c&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+**Frontend:** Vue.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![PHP (OOP)](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+**UI Frameworks:** Quasar Framework
 
-### 🗄️ Database
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+**State & Routing:** Pinia, Vue Router
 
-### 📜 Scripting
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+**API Integration:** Axios, REST APIs
 
-### ⚙️ Frameworks, Libraries & Technologies
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![Quasar](https://img.shields.io/badge/-Quasar-1976D2?logo=quasar&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
+**Backend:** Node.js, Express.js, Prisma ORM, PostgreSQL
 
----
+**Tools:** Git, GitHub, VS Code, Cursor, Linux
 
-## 📈 GitHub Stats
+## 🚀 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+### 1. Admin Dashboard
+A responsive dashboard with reusable components, data tables, filtering, forms, and API integration.
 
----
+**Tech:** Vue 3, Quasar, Pinia, Axios
 
-## 📫 Reach me at
-- ✉️ Email: tariqaziz.cse@gmail.com
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/md-tariq-aziz-nasim/)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+[View Repository](YOUR_REPOSITORY_URL) · [Live Demo](YOUR_DEMO_URL)
 
----
-⭐ *Thanks for visiting!*
+### 2. E-commerce Frontend
+A responsive shopping experience with product listings, variant selection, cart management, and checkout UI.
+
+**Tech:** Vue 3, Pinia, Tailwind CSS, Axios
+
+[View Repository](YOUR_REPOSITORY_URL) · [Live Demo](YOUR_DEMO_URL)
+
+### 3. Inventory Management System
+An application for managing products, stock movements, warehouses, and reports.
+
+**Tech:** Vue 3, Quasar, REST APIs
+
+[View Repository](YOUR_REPOSITORY_URL) · [Live Demo](YOUR_DEMO_URL)
+
+## 📈 Current Focus
+
+- Improving frontend architecture and code quality
+- Building production-ready Vue.js applications
+- Writing reusable composables and API services
+- Exploring AI-assisted development workflows
+
+## 🤝 Let's Connect
+
+- GitHub: https://github.com/md-tariq-aziz-nasim
+- LinkedIn: https://www.linkedin.com/in/md-tariq-aziz-nasim/
+
+I'm open to collaborating on useful web applications and freelance projects.
